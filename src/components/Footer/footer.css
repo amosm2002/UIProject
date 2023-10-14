@@ -1,0 +1,17 @@
+.footer {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background: linear-gradient(to right, #401f3e, #453f78); /* Gradient similar to .hero__section */
+}
+
+.logo__title,
+.footer__text,
+.footer__copyright {
+  color: #759AAB; /* Text color similar to .hero__content text color */
+}
+
+.logo__holder {
+  display: flex;
+  margin: 5px;
+  column-gap: 8px;
+}
